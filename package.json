@@ -1,0 +1,17 @@
+{
+  "name": "reviewreportjs",
+  "version": "1.0.0",
+  "description": "Prototype integration of Review Board and GitLab tools to generate reports in one place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramzi Mekhail",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "http": "0.0.0",
+    "http-request": "^0.7.0",
+    "tableify": "^1.0.0"
+  }
+}
